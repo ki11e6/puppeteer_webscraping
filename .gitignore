@@ -1,4 +1,4 @@
-.pdf
-.pnd
-.html
+*.pdf
+*.png
+*.html
 node_modules
